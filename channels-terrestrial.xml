@@ -1,0 +1,95 @@
+    <channel fe_type="dvbt" frequency="618000000" original_network_id="8564" ts_id="1002" bandwidth="8" ofdm_mode="0">
+
+        <program name="xxxRTÉ One" service_id="2101" channel_number="1" type="1" scrambled="false" parental_lock="false" skip="false" id="1808" pmt_pid="2001" plp_id="256" sdt_version="27" default_channnel_num="1" lcn="101" fav="0">
+            <video pid="2101" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="2201" format="mpeg" language="eng"/>
+            <audio pid="2501" format="mpeg" language="iri"/>
+            <audio pid="2401" format="mpeg" language="nar"/>
+        </program>
+        <program name="xxxVirgin Media 3" service_id="2103" channel_number="7" type="1" scrambled="false" parental_lock="false" skip="false" id="1810" pmt_pid="2003" plp_id="256" sdt_version="27" default_channnel_num="7" lcn="107" fav="0">
+            <video pid="2103" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="2203" format="mpeg" language="eng"/>
+            <audio pid="2403" format="mpeg" language="nar"/>
+        </program>
+        <program name="xxxRTÉ2 +1" service_id="2102" channel_number="4" type="1" scrambled="false" parental_lock="false" skip="false" id="1811" pmt_pid="2002" plp_id="256" sdt_version="27" default_channnel_num="4" lcn="104" fav="0">
+            <video pid="2102" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="2202" format="mpeg" language="eng"/>
+            <audio pid="2502" format="mpeg" language="iri"/>
+            <audio pid="2402" format="mpeg" language="nar"/>
+        </program>
+        <program name="xxxRTÉ One +1" service_id="2111" channel_number="2" type="1" scrambled="false" parental_lock="false" skip="false" id="1816" pmt_pid="2011" plp_id="256" sdt_version="27" default_channnel_num="2" lcn="102" fav="0">
+            <video pid="2111" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="2211" format="mpeg" language="eng"/>
+            <audio pid="2511" format="mpeg" language="iri"/>
+            <audio pid="2411" format="mpeg" language="nar"/>
+        </program>
+
+    </channel>
+
+    <channel fe_type="dvbt" frequency="666000000" original_network_id="8564" ts_id="1001" bandwidth="8" ofdm_mode="0">
+
+        <program name="xxxRTÉ2" service_id="1102" channel_number="3" type="1" scrambled="false" parental_lock="false" skip="false" id="1847" pmt_pid="1902" plp_id="256" sdt_version="26" default_channnel_num="3" lcn="103" fav="0">
+            <video pid="1102" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="1202" format="mpeg" language="eng"/>
+            <audio pid="1502" format="mpeg" language="iri"/>
+            <audio pid="1402" format="mpeg" language="nar"/>
+        </program>
+        <program name="xxxVirgin Media 1" service_id="1103" channel_number="5" type="1" scrambled="false" parental_lock="false" skip="false" id="1848" pmt_pid="1903" plp_id="256" sdt_version="26" default_channnel_num="5" lcn="105" fav="0">
+            <video pid="1103" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="1203" format="mpeg" language="eng"/>
+            <audio pid="1403" format="mpeg" language="nar"/>
+        </program>
+        <program name="xxxRTÉ News" service_id="1105" channel_number="9" type="1" scrambled="false" parental_lock="false" skip="false" id="1850" pmt_pid="1905" plp_id="256" sdt_version="26" default_channnel_num="9" lcn="109" fav="0">
+            <video pid="1105" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="1205" format="mpeg" language="eng"/>
+        </program>
+        <program name="xxxTG4" service_id="1104" channel_number="8" type="1" scrambled="false" parental_lock="false" skip="false" id="1851" pmt_pid="1904" plp_id="256" sdt_version="26" default_channnel_num="8" lcn="108" fav="0">
+            <video pid="1104" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="1204" format="mpeg" language="iri"/>
+            <audio pid="1404" format="mpeg" language="nar"/>
+        </program>
+        <program name="xxxVirgin Media 2" service_id="1106" channel_number="6" type="1" scrambled="false" parental_lock="false" skip="false" id="1853" pmt_pid="1906" plp_id="256" sdt_version="26" default_channnel_num="6" lcn="106" fav="0">
+            <video pid="1106" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="1206" format="mpeg" language="eng"/>
+            <audio pid="1406" format="mpeg" language="nar"/>
+        </program>
+        <program name="xxxTithe an Oireachtais" service_id="1101" channel_number="10" type="1" scrambled="false" parental_lock="false" skip="false" id="1854" pmt_pid="1901" plp_id="256" sdt_version="26" default_channnel_num="10" lcn="110" fav="0">
+            <video pid="1101" format="h264"/>
+            <pcr pid="8190"/>
+            <audio pid="1201" format="mpeg" language="eng"/>
+        </program>
+        <program name="xxxRTÉ 2FM" service_id="1227" channel_number="3" type="2" scrambled="false" parental_lock="false" skip="false" id="1861" pmt_pid="1922" plp_id="256" sdt_version="26" default_channnel_num="3" lcn="1003" fav="0">
+            <audio pid="1227" format="mpeg" language="eng"/>
+        </program>
+        <program name="xxxRTÉ Radio 1" service_id="1226" channel_number="1" type="2" scrambled="false" parental_lock="false" skip="false" id="1862" pmt_pid="1921" plp_id="256" sdt_version="26" default_channnel_num="1" lcn="1001" fav="0">
+            <audio pid="1226" format="mpeg" language="eng"/>
+        </program>
+        <program name="xxxRTÉ 2XM" service_id="1232" channel_number="4" type="2" scrambled="false" parental_lock="false" skip="false" id="1866" pmt_pid="1927" plp_id="256" sdt_version="26" default_channnel_num="4" lcn="1004" fav="0">
+            <audio pid="1232" format="mpeg" language="eng"/>
+        </program>
+        <program name="xxxRTÉ Raidió na Gaeltachta" service_id="1229" channel_number="8" type="2" scrambled="false" parental_lock="false" skip="false" id="1867" pmt_pid="1924" plp_id="256" sdt_version="26" default_channnel_num="8" lcn="1008" fav="0">
+            <audio pid="1229" format="mpeg" language="iri"/>
+        </program>
+        <program name="xxxRTÉ Lyric" service_id="1228" channel_number="6" type="2" scrambled="false" parental_lock="false" skip="false" id="1868" pmt_pid="1923" plp_id="256" sdt_version="26" default_channnel_num="6" lcn="1006" fav="0">
+            <audio pid="1228" format="mpeg" language="eng"/>
+        </program>
+        <program name="xxxRTÉ Pulse" service_id="1231" channel_number="7" type="2" scrambled="false" parental_lock="false" skip="false" id="1869" pmt_pid="1926" plp_id="256" sdt_version="26" default_channnel_num="7" lcn="1007" fav="0">
+            <audio pid="1231" format="mpeg" language="eng"/>
+        </program>
+        <program name="xxxRTÉ Radio 1 Extra" service_id="1230" channel_number="2" type="2" scrambled="false" parental_lock="false" skip="false" id="1870" pmt_pid="1925" plp_id="256" sdt_version="26" default_channnel_num="2" lcn="1002" fav="0">
+            <audio pid="1230" format="mpeg" language="eng"/>
+        </program>
+        <program name="xxxRTÉ Gold" service_id="1234" channel_number="5" type="2" scrambled="false" parental_lock="false" skip="false" id="1873" pmt_pid="1929" plp_id="256" sdt_version="26" default_channnel_num="5" lcn="1005" fav="0">
+            <audio pid="1234" format="mpeg" language="eng"/>
+        </program>
+
+    </channel>
