@@ -7,7 +7,7 @@ GTMEDIA devices but have not been tested.
 Satellite channels are generated from latest KingOfSat tables.\
 A list of terrestrial channels file may be included if required.
 
-As configure, scripts will generate a sorted subset of channels for Astra 28.2E
+As configured, scripts will generate a sorted subset of channels for Astra 28.2E
 with selection of Irish terrestrial channels but may be configuted for other satellites by changing URL in `scanForChannels.py` (line 33).
 
 **CAUTION: Never run untrusted scripts on your PC.**
